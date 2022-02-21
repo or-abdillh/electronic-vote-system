@@ -29,7 +29,7 @@ Studi kasus yang ada pada aplikasi ini adalah berawal dari keikutsertaan saya da
 Saya mendapati banyak faktor yang menyebabkan HIMA TI Polihasnur saat itu belum memiliki sistem evoting mereka sendiri, yaitu :
 
 - **Kualitas dan kuantittas SDM**
-		Menurut pengamatan saya inilah faktor paling berdampak karena jika SDM yang dimiliki sedikit ditambah dengan hardskill yang bisa dikatak kurang mempuni akan sulit untuk memulai pengembangan sistem evoting sendiri
+		, menurut pengamatan saya inilah faktor paling berdampak karena jika SDM yang dimiliki sedikit ditambah dengan hardskill yang bisa dikatak kurang mempuni akan sulit untuk memulai pengembangan sistem evoting sendiri
 
 - **Bukan prioritas program kerja**
 - **Berada pada zona nyaman ketika menggunakan layanan Google Form**
@@ -79,27 +79,27 @@ Untuk dokumentasi lengkap tentang endpoint, request, response, dan lain - lain s
 
 Berikut ini adalah fitur - fitur yang ada pada sistem ini sampai dengan dokumentasi ini dibuat :
 
-[x] Using JWT authentication
-[x] login using username and password
-[x] Create new account
-[x] Update account
-[x] Remove account
-[x] Get profile detail for spesific account
-[x] Submit vote
-[x] Using passcode validation at client app before submit vote
-[x] Create new candidate
-[x] Update candidate
-[x] Remove candidate
-[x] Manage event details
-[x] Get information detail about event fo admin
-[x] Get information about quiick count
-[ ] Upload image profile for candidates
-[ ] Insert data account using spreadsheet .xls or .xlsx
-[ ] Download document report event
+- [x] Using JWT authentication
+- [x] login using username and password
+- [x] Create new account
+- [x] Update account
+- [x] Remove account
+- [x] Get profile detail for spesific account
+- [x] Submit vote
+- [x] Using passcode validation at client app before submit vote
+- [x] Create new candidate
+- [x] Update candidate
+- [x] Remove candidate
+- [x] Manage event details
+- [x] Get information detail about event fo admin
+- [x] Get information about quiick count
+- [ ] Upload image profile for candidates
+- [ ] Insert data account using spreadsheet .xls or .xlsx
+- [ ] Download document report event
 
 ## Install
 
-Untuk menggunakan sistem ini anda harus mengunduh ketiga aplikasi yang sudah saya asebutkan sebelumnya terlebih dulu dengan mengikutin instruksi pada setiap dokumentasi
+Untuk menggunakan sistem ini anda harus mengunduh ketiga aplikasi yang sudah saya ssebutkan sebelumnya terlebih dulu dengan mengikutin instruksi pada setiap dokumentasi
 
 ## Conclusion
 
